@@ -1,1 +1,1 @@
-# odoo_ui
+# odoo_ui-development
